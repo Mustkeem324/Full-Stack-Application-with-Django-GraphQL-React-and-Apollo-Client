@@ -1,4 +1,4 @@
-# E-commerce Product Listing Application
+# Full-Stack Application with Django, GraphQL, React, and Apollo Client
 
 ## Overview
 
